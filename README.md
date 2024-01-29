@@ -1,6 +1,6 @@
 # React + Vite + Eslint + Prettier
 
-Don't speak Portuguese? [Click here]() to view this page in English.
+Don't speak Portuguese? [Click here](https://github.com/BiancaAdS/react-vite-with-eslint-prettier/blob/master/README-en.md) to view this page in English.
 
 Um boilerplate com as tecnologias que utilizo normalmente.
 
