@@ -8,7 +8,7 @@ _OBS: The repository can be updated with new **Eslint rules**._
 
 ## Installation
 
-Clone the repository and run the command `npm install` ou `npm i`.
+Clone the repository and run the command `npm install` or `npm i`.
 
 ## Starting
 
