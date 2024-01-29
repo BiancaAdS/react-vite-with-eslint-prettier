@@ -6,7 +6,7 @@ A boilerplate for the technologies that I normally use.
 
 _OBS: The repository can be updated with new **Eslint rules**._
 
-## Instalação
+## Installation
 
 Clone the repository and run the command `npm install` ou `npm i`.
 
